@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F3F4F6;
+}
+
+.container{
+  display: flex;
+}
+
+.href{
+  margin-top: -5px;
+  margin-left: 20px;
+  font-size: 14px;
+  color: #3b82f6;
+}
